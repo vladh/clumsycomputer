@@ -1,5 +1,7 @@
 # A regex engine as seen on clumsycomputer 2020/06/29
 
+VOD: Coming soon!
+
 This is a regex engine we coded live on the
 [clumsycomputer stream](https://twitch.tv/clumsycomputer). It's around 240 lines of Python and is
 a regex-directed engine based on backtracking. It uses no libraries or imports of any kind.
