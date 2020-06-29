@@ -1,7 +1,8 @@
 # Things coded on the [clumsycomputer stream](https://twitch.tv/clumsycomputer)
 
 [clumsycomputer](https://twitch.tv/clumsycomputer) is a Twitch stream where we program something
-from scratch together to better learn how things work! This repository contains the code for
+from scratch together to better learn how things work! This usually means no libraries
+and potentially no imports. This repository contains the code for
 all the things that we coded on stream.
 
 If you find it interesting, please stop by the stream, we'd love to have you around! There's

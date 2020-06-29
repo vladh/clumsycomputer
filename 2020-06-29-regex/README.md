@@ -2,7 +2,9 @@
 
 This is a regex engine we coded live on the
 [clumsycomputer stream](https://twitch.tv/clumsycomputer). It's around 240 lines of Python and is
-a regex-directed engine based on backtracking. It supports:
+a regex-directed engine based on backtracking. It uses no libraries or imports of any kind.
+
+It supports:
 
 * Literals (`abc`)
 * Sets (`[abc]`)
