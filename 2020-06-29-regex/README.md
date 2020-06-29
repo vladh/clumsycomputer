@@ -1,9 +1,9 @@
-# A full-featured regex engine from scratch in Python (no imports), as seen on clumsycomputer 2020/06/29
+# A full-featured regex engine from scratch in Python (no imports), as seen on clumsy computer 2020/06/29
 
 VOD: Coming soon!
 
 This is a regex engine we coded live on the
-[clumsycomputer stream](https://twitch.tv/clumsycomputer). It's around 240 lines of Python and is
+[clumsy computer stream](https://twitch.tv/clumsycomputer). It's around 240 lines of Python and is
 a regex-directed engine based on backtracking. It uses no libraries or imports of any kind.
 
 It supports:

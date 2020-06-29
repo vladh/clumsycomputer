@@ -1,6 +1,6 @@
-# Things coded on the [clumsycomputer stream](https://twitch.tv/clumsycomputer)
+# Things coded on the [clumsy computer stream](https://twitch.tv/clumsycomputer)
 
-[clumsycomputer](https://twitch.tv/clumsycomputer) is a Twitch stream where we program something
+[clumsy computer](https://twitch.tv/clumsycomputer) is a Twitch stream where we program something
 from scratch together to better learn how things work! This usually means no libraries
 and potentially no imports. This repository contains the code for
 all the things that we coded on stream.
@@ -17,7 +17,7 @@ and you'll be notified when it's live!
 
 ## Credits
 
-clumsycomputer is [vladh](https://vladh.net).
+clumsy computer is [vladh](https://vladh.net).
 
 ## License
 
