@@ -1,4 +1,4 @@
-# A regex engine as seen on clumsycomputer 2020/06/29
+# A full-featured regex engine from scratch in Python (no imports), as seen on clumsycomputer 2020/06/29
 
 VOD: Coming soon!
 
