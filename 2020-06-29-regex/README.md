@@ -4,7 +4,9 @@ VOD: https://www.youtube.com/watch?v=fgp0tKWYQWY
 
 This is a regex engine we coded live on the
 [clumsy computer stream](https://twitch.tv/clumsycomputer). It's around 240 lines of Python and is
-a regex-directed engine based on backtracking. It uses no libraries or imports of any kind.
+a regex-directed engine based on backtracking. Because of this, and because of the way it's
+written, it's not the fastest. However, it's written to be clear rather than fast.
+It uses no libraries or imports of any kind.
 
 It supports:
 
