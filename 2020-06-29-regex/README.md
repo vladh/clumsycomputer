@@ -1,6 +1,6 @@
 # A full-featured regex engine from scratch in Python (no imports), as seen on clumsy computer 2020/06/29
 
-VOD: Coming soon!
+VOD: https://www.youtube.com/watch?v=fgp0tKWYQWY
 
 This is a regex engine we coded live on the
 [clumsy computer stream](https://twitch.tv/clumsycomputer). It's around 240 lines of Python and is

@@ -13,7 +13,7 @@ and you'll be notified when it's live!
 
 * 2020/06/29: A full-featured regex engine from scratch in Python (no imports)
 [(code)](https://github.com/vladh/clumsycomputer/tree/master/2020-06-29-regex)
-(VOD coming soon)
+[(VOD)](https://www.youtube.com/watch?v=fgp0tKWYQWY)
 
 ## Credits
 
