@@ -17,7 +17,7 @@ and you'll be notified when it's live!
 
 * 2020/07/06: OCR/image recognition using basic machine learning with k-NN (no imports)
 [(code)](https://github.com/vladh/clumsycomputer/tree/master/2020-07-06-ocr)
-(VOD coming soon!)
+[(VOD)](https://www.youtube.com/watch?v=vzabeKdW9tE)
 
 ## Credits
 
