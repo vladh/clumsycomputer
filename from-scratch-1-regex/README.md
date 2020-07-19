@@ -1,6 +1,8 @@
-# A full-featured regex engine from scratch in Python (no imports), as seen on clumsy computer 2020/06/29
+# From scratch #1: A full-featured regex engine from scratch (Python, no imports)
 
 VOD: https://www.youtube.com/watch?v=fgp0tKWYQWY
+
+Made [live on stream](https://twitch.tv/clumsycomputer) on 2020/06/29.
 
 This is a regex engine we coded live on the
 [clumsy computer stream](https://twitch.tv/clumsycomputer). It's around 240 lines of Python and is

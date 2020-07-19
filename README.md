@@ -11,12 +11,12 @@ and you'll be notified when it's live!
 
 ## Index
 
-* 2020/06/29: A full-featured regex engine from scratch in Python (no imports)
-[(code)](https://github.com/vladh/clumsycomputer/tree/master/2020-06-29-regex)
+* From scratch #1: A full-featured regex engine (Python, no imports)
+[(code)](https://github.com/vladh/clumsycomputer/tree/master/from-scratch-1-regex)
 [(VOD)](https://www.youtube.com/watch?v=fgp0tKWYQWY)
 
-* 2020/07/06: OCR/image recognition using basic machine learning with k-NN (no imports)
-[(code)](https://github.com/vladh/clumsycomputer/tree/master/2020-07-06-ocr)
+* From scratch #2: OCR/image recognition using basic machine learning with k-NN (Python, no imports)
+[(code)](https://github.com/vladh/clumsycomputer/tree/master/from-scratch-2-ocr)
 [(VOD)](https://www.youtube.com/watch?v=vzabeKdW9tE)
 
 ## Credits

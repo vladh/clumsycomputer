@@ -1,6 +1,8 @@
-# OCR/image recognition using basic machine learning with k-NN (no imports), as seen on clumsy computer 2020/07/06
+# From scratch #2: OCR/image recognition using basic machine learning with k-NN (Python, no imports)
 
 VOD: https://www.youtube.com/watch?v=vzabeKdW9tE
+
+Made [live on stream](https://twitch.tv/clumsycomputer) on 2020/07/06.
 
 This is a simple program that performs image recognition on the
 [mnist](http://yann.lecun.com/exdb/mnist/)
