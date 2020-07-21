@@ -1,4 +1,4 @@
-# From scratch #2: OCR/image recognition using basic machine learning with k-NN (Python, no imports)
+# From Scratch #2: OCR/image recognition using basic machine learning with k-NN (Python, no imports)
 
 VOD: https://www.youtube.com/watch?v=vzabeKdW9tE
 

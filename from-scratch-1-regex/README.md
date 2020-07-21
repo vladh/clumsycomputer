@@ -1,4 +1,4 @@
-# From scratch #1: A full-featured regex engine from scratch (Python, no imports)
+# From Scratch #1: A full-featured regex engine from scratch (Python, no imports)
 
 VOD: https://www.youtube.com/watch?v=fgp0tKWYQWY
 
