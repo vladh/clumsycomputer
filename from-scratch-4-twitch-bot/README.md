@@ -11,7 +11,7 @@ that you can add and remove commands from the chat, and create more complex
 functionality such as a list of quotes.
 
 The bot supports two basic kinds of commands. Template commands are commands
-such as "Welcome to the channel, (user)!". Custom commands are commands with
+such as "Welcome to the channel, {user}!". Custom commands are commands with
 more advanced functionality — you can make them whatever you'd like.
 
 To run the bot, create a `config.py` file that follows the format in `config_example.py`.
