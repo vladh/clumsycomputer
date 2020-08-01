@@ -19,6 +19,12 @@ and you'll be notified when it's live!
 [(code)](https://github.com/vladh/clumsycomputer/tree/master/from-scratch-2-ocr)
 [(VOD)](https://www.youtube.com/watch?v=vzabeKdW9tE)
 
+* From scratch ##: Remaking Vue.js from scratch (coming soon)
+
+* From scratch #4: An extensible Twitch bot (Python, no libraries)
+[(code)](https://github.com/vladh/clumsycomputer/tree/master/from-scratch-4-twitch-bot)
+[(VOD)](https://youtu.be/pT45y04wEZg )
+
 ## Credits
 
 clumsy computer is [vladh](https://vladh.net).
