@@ -1,6 +1,6 @@
 # From Scratch #4: An extensible Twitch bot (Python, no libraries)
 
-VOD: https://youtu.be/pT45y04wEZg
+VOD: https://youtu.be/hmWN41GMVWw
 
 Made [live on stream](https://twitch.tv/clumsycomputer) on 2020/07/27.
 
