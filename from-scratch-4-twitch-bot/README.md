@@ -14,4 +14,8 @@ The bot supports two basic kinds of commands. Template commands are commands
 such as "Welcome to the channel, {user}!". Custom commands are commands with
 more advanced functionality — you can make them whatever you'd like.
 
+You can get an oauth token by following the [Twitch
+documentation](https://dev.twitch.tv/docs/irc), in particular by using the
+[Twitch Chat OAuth Password Generator](https://twitchapps.com/tmi/).
+
 To run the bot, create a `config.py` file that follows the format in `config_example.py`.
