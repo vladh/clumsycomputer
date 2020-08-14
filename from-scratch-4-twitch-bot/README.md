@@ -1,14 +1,19 @@
 # From Scratch #4: An extensible Twitch bot (Python, no libraries)
 
-VOD: https://youtu.be/hmWN41GMVWw
+VOD:
+
+* [Coding an extensible Twitch bot from scratch in Python ! (#1 — Twitch bot from scratch)](https://youtu.be/hmWN41GMVWw)
+* [Adding commands from Twitch chat with state (#2 — Twitch bot from scratch)](https://youtu.be/Hb108L1y7oY)
 
 Made [live on stream](https://twitch.tv/clumsycomputer) on 2020/07/27.
 
 This is a simple Twitch bot, which is structured such that it can be extended in
-the future to support all kinds of functionality. If you liked this video, let
-me know and I'll create a second part explaining how to extend the bot such
-that you can add and remove commands from the chat, and create more complex
-functionality such as a list of quotes.
+the future to support all kinds of functionality.
+
+In the second part, we fixed some things we left out in the last video, and we added
+the !addcmd, !editcmd and !delcmd commands, so that we can add and edit commands from
+Twitch chat. We also added a file-based state, which you can use to create persistent
+counters and quote trackers!
 
 The bot supports two basic kinds of commands. Template commands are commands
 such as "Welcome to the channel, {user}!". Custom commands are commands with
