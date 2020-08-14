@@ -11,17 +11,17 @@ and you'll be notified when it's live!
 
 ## Index
 
-* From scratch #1: A full-featured regex engine (Python, no imports)
+* From Scratch #1: A full-featured regex engine (Python, no imports)
 [(code)](https://github.com/vladh/clumsycomputer/tree/master/from-scratch-1-regex)
 [(VOD)](https://www.youtube.com/watch?v=fgp0tKWYQWY)
 
-* From scratch #2: OCR/image recognition using basic machine learning with k-NN (Python, no imports)
+* From Scratch #2: OCR/image recognition using basic machine learning with k-NN (Python, no imports)
 [(code)](https://github.com/vladh/clumsycomputer/tree/master/from-scratch-2-ocr)
 [(VOD)](https://www.youtube.com/watch?v=vzabeKdW9tE)
 
-* From scratch #3: Remaking Vue.js from scratch (coming soon)
+* From Scratch #3: Remaking Vue.js from scratch (coming soon)
 
-* From scratch #4: An extensible Twitch bot (Python, no libraries)
+* From Scratch #4: An extensible Twitch bot (Python, no libraries)
 [(code)](https://github.com/vladh/clumsycomputer/tree/master/from-scratch-4-twitch-bot)
 [(VOD)](https://youtu.be/hmWN41GMVWw)
 
