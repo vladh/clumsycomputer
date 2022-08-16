@@ -15,8 +15,8 @@ and you'll be notified when it's live!
 ## Index
 
 * From Scratch #1: A full-featured regex engine (Python, no imports)
-    * code: https://git.sr.ht/~vladh/clumsycomputer/tree/main/item/from-scratch-1-regex
-    * VOD: https://video.clumsy.computer/w/ptV4jwvwzWgwmTftzBika2 ([or on YT](https://www.youtube.com/watch?v=fgp0tKWYQWY))
+    * [code](https://git.sr.ht/~vladh/clumsycomputer/tree/main/item/from-scratch-1-regex
+    * [VOD](https://video.clumsy.computer/w/ptV4jwvwzWgwmTftzBika2) ([or on YT](https://www.youtube.com/watch?v=fgp0tKWYQWY))
 
 * From Scratch #2: OCR/image recognition using basic machine learning with k-NN (Python, no imports)
     * code: https://git.sr.ht/~vladh/clumsycomputer/tree/main/item/from-scratch-2-ocr
