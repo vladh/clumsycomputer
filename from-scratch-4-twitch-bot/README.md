@@ -2,8 +2,10 @@
 
 VOD:
 
-* [Coding an extensible Twitch bot from scratch in Python ! (#1 — Twitch bot from scratch)](https://youtu.be/hmWN41GMVWw)
-* [Adding commands from Twitch chat with state (#2 — Twitch bot from scratch)](https://youtu.be/Hb108L1y7oY)
+* Part 1 video.clumsy.computer VOD: https://video.clumsy.computer/w/6dukmBU6pjFtBd8KFXWC2o
+* Part 2 video.clumsy.computer VOD: https://video.clumsy.computer/w/c1f1m4fceum8WLBrbkznVc
+* Part 1 YouTube VOD: https://youtu.be/Hb108L1y7oY
+* Part 2 YouTube VOD: https://youtu.be/hmWN41GMVWw
 
 Made [live on stream](https://twitch.tv/clumsycomputer) on 2020/07/27.
 

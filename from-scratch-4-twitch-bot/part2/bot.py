@@ -26,8 +26,8 @@ class Bot:
         self.irc_server = 'irc.chat.twitch.tv'
         self.irc_port = 6697
         self.oauth_token = config.OAUTH_TOKEN
-        self.username = 'squishymcbotty'
-        self.channels = ['squishymcbotty', 'vladh']
+        self.username = 'vladh'
+        self.channels = ['vladh']
         self.command_prefix = '!'
         self.state = {}
         self.state_filename = 'state.json'

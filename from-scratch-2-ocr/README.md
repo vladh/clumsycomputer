@@ -1,6 +1,8 @@
 # From Scratch #2: OCR/image recognition using basic machine learning with k-NN (Python, no imports)
 
-VOD: https://www.youtube.com/watch?v=vzabeKdW9tE
+video.clumsy.computer VOD: https://video.clumsy.computer/w/tSFB3pLWC8HMvceDAXF6yY
+
+YouTube VOD: https://www.youtube.com/watch?v=vzabeKdW9tE
 
 Made [live on stream](https://twitch.tv/clumsycomputer) on 2020/07/06.
 
