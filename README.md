@@ -1,9 +1,12 @@
 # Things coded on the [clumsy computer stream](https://twitch.tv/clumsycomputer)
 
-[clumsy computer](https://twitch.tv/clumsycomputer) is a Twitch stream where we program something
-from scratch together to better learn how things work! This usually means no libraries
-and potentially no imports. This repository contains the code for
-all the things that we coded on stream.
+clumsy computer is a channel where we code things from scratch to understand
+programming better! We've built things from a regular expression engine to an
+OCR implementation live on stream, usually with no imports or libraries.
+
+This repository contains the code for all the things that we coded on [the
+stream](https://twitch.tv/clumsycomputer) and in [the
+videos](https://video.clumsy.computer).
 
 If you find it interesting, please stop by the stream, we'd love to have you around! There's
 currently no schedule, so you can follow [twitch.tv/clumsycomputer](https://twitch.tv/clumsycomputer)
@@ -13,13 +16,13 @@ and you'll be notified when it's live!
 
 * From Scratch #1: A full-featured regex engine (Python, no imports)
 [(code)](https://git.sr.ht/~vladh/clumsycomputer/tree/main/item/from-scratch-1-regex)
-[(video.clumsy.computer VOD)](https://video.clumsy.computer/w/ptV4jwvwzWgwmTftzBika2)
-[(YouTube VOD)](https://www.youtube.com/watch?v=fgp0tKWYQWY)
+[(VOD)](https://video.clumsy.computer/w/ptV4jwvwzWgwmTftzBika2)
+[(YT VOD)](https://www.youtube.com/watch?v=fgp0tKWYQWY)
 
 * From Scratch #2: OCR/image recognition using basic machine learning with k-NN (Python, no imports)
 [(code)](https://git.sr.ht/~vladh/clumsycomputer/tree/main/item/from-scratch-2-ocr)
-[(video.clumsy.computer VOD)](https://video.clumsy.computer/w/tSFB3pLWC8HMvceDAXF6yY)
-[(YouTube VOD)](https://www.youtube.com/watch?v=vzabeKdW9tE)
+[(VOD)](https://video.clumsy.computer/w/tSFB3pLWC8HMvceDAXF6yY)
+[(YT VOD)](https://www.youtube.com/watch?v=vzabeKdW9tE)
 
 * From Scratch #3: Remaking Vue.js from scratch
 [(code)](https://git.sr.ht/~vladh/clumsycomputer/tree/main/item/from-scratch-3-vue)
@@ -27,10 +30,10 @@ and you'll be notified when it's live!
 
 * From Scratch #4: An extensible Twitch bot (Python, no libraries)
 [(code)](https://git.sr.ht/~vladh/clumsycomputer/tree/main/item/from-scratch-4-twitch-bot)
-[(Part 1 video.clumsy.computer VOD)](https://video.clumsy.computer/w/6dukmBU6pjFtBd8KFXWC2o)
-[(Part 2 video.clumsy.computer VOD)](https://video.clumsy.computer/w/c1f1m4fceum8WLBrbkznVc)
-[(Part 1 YouTube VOD)](https://youtu.be/Hb108L1y7oY)
-[(Part 2 YouTube VOD)](https://youtu.be/hmWN41GMVWw)
+[(Part 1 VOD)](https://video.clumsy.computer/w/6dukmBU6pjFtBd8KFXWC2o)
+[(Part 2 VOD)](https://video.clumsy.computer/w/c1f1m4fceum8WLBrbkznVc)
+[(Part 1 YT VOD)](https://youtu.be/Hb108L1y7oY)
+[(Part 2 YT VOD)](https://youtu.be/hmWN41GMVWw)
 
 ## Credits
 
