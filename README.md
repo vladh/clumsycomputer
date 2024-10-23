@@ -33,4 +33,4 @@ and you'll be notified when it's live!
 
 ## Credits
 
-clumsy computer is [vladh](https://vladh.net).
+clumsy computer is hosted by [Vlad](https://vlad.website).
