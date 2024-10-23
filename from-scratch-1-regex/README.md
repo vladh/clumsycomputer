@@ -1,8 +1,6 @@
 # From Scratch #1: A full-featured regex engine from scratch (Python, no imports)
 
-video.clumsy.computer VOD: https://video.clumsy.computer/w/ptV4jwvwzWgwmTftzBika2
-
-YouTube VOD: https://www.youtube.com/watch?v=fgp0tKWYQWY
+VOD: https://www.youtube.com/watch?v=fgp0tKWYQWY
 
 Made [live on stream](https://twitch.tv/clumsycomputer) on 2020/06/29.
 
